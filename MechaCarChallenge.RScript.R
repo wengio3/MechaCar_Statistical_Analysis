@@ -47,17 +47,3 @@ t.test(lot2$PSI,mu=1500)
 t.test(lot3$PSI,mu=1500)
 
 # 3. Save your MechaCarChallenge.RScript file to your GitHub repository.
-
-                                                                       
-                                                                       
-                                                                       
-                                                                       
-                                                                       
-                                                                       
-                                                                       
-                                                                       
-                                                                       
-                                                                       
-                                                                       
-                                                                       
-                                                                       
