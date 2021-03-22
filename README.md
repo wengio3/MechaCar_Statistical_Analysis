@@ -36,7 +36,7 @@ The MechaCar Suspension_Coil.csv dataset contains the results from multiple prod
 
 * The suspension coil's PSI continuous variable across all manufacturing lots
 
-![Screen Shot 2021-03-22 at 12 13 05 AM](https://user-images.githubusercontent.com/74740339/111943980-02730600-8aad-11eb-85e7-e0c416050715.png)
+![Screen Shot 2021-03-22 at 1 20 34 AM](https://user-images.githubusercontent.com/74740339/111944310-bd9b9f00-8aad-11eb-980a-8be026efb604.png)
 
 * The following PSI metrics for each lot: mean, median, Variance, and standard deviation.
 
