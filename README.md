@@ -1,5 +1,7 @@
 # MechaCar_Statistical_Analysis
 
+## Study Design: MechaCar vs Competition
+
 # Overview 
 
 AutosRUs’ is a car manufacturer. The newest prototype, the MechaCar, is suffering from production troubles hindering the manufacturing team’s progress. This analytics is to review the production data for insights that may help the manufacturing team.
@@ -32,7 +34,7 @@ _outcome of linear regression model_
 
 ## Summary Statistics on Suspension Coils
 
-The MechaCar Suspension_Coil.csv dataset contains the results from multiple production lots. In this dataset, multiple suspension coils' weight capacities were tested to determine if the manufacturing process is consistent across production lots. The MechaCar suspension coils' design specifications dictate that the suspension coils' Variance must not exceed 100 pounds per square inch. This analysis examines if the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually.  The following linear model summary statistics table shows:
+The MechaCar Suspension_Coil.csv dataset contains the results from multiple production lots. In this dataset, multiple suspension coils' weight capacities were tested to determine if the manufacturing process is consistent across production lots. The following linear model summary statistics table shows:
 
 * The suspension coil's PSI continuous variable across all manufacturing lots
 
@@ -42,6 +44,7 @@ The MechaCar Suspension_Coil.csv dataset contains the results from multiple prod
 
 ![Screen Shot 2021-03-22 at 1 22 52 AM](https://user-images.githubusercontent.com/74740339/111944061-27677900-8aad-11eb-806e-c67c909dcc83.png)
 
+ The MechaCar suspension coils' design specifications dictate that the suspension coils' Variance must not exceed 100 pounds per square inch. This analysis examines if the current manufacturing data does not meet this design specification for all manufacturing lots with a mean of 1500.01, 1499.57, 1499.0 lot1, lot2, and lot3 respectively in the total summery for all the alls the mean is 14.99.53 . 
 _Important definitions:_
 
 * Mean: (average) of a data set is found by adding all numbers in the data set and then dividing by the number of values in the set.
@@ -56,5 +59,12 @@ __Here are some references used for future reading and understanding of these te
 * https://en.wikipedia.org/wiki/Statistics
 * https://en.wikipedia.org/wiki/Variance
 
-## Study Design: MechaCar vs Competition
+## T-Tests on Suspension Coils
+
+![Screen Shot 2021-03-22 at 1 31 03 AM](https://user-images.githubusercontent.com/74740339/111944581-5f22f080-8aae-11eb-82e2-c43b3b1d03f8.png)
+
+![Screen Shot 2021-03-22 at 1 31 15 AM](https://user-images.githubusercontent.com/74740339/111944586-60ecb400-8aae-11eb-9f3a-35c4d3fa1444.png)
+
+# Summary
+
 
